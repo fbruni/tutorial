@@ -1,0 +1,31 @@
+﻿@page
+@model IEnumerable<DAL.Entity.Book>
+@{
+    ViewData["Title"] = "Books";
+}
+
+<h1>Books</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Author</th>
+            <th>Created</th>
+            <th>Updated</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Title</td>
+                <td>@book.Description</td>
+                <td>@book.Author</td>
+                <td>@(book.Created != null ? book.Created.Value.ToString("yyyy-MM-dd") : "")</td>
+                <td>@(book.Updated != null ? book.Updated.Value.ToString("yyyy-MM-dd") : "")</td>
+            </tr>
+        }
+    </tbody>
+</table>

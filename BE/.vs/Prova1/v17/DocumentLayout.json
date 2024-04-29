@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Francesco\\source\\repos\\Prova1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73BCE0C7-3E41-438E-BFEA-5C359647CFA1}|DAL\\DAL.csproj|c:\\users\\francesco\\source\\repos\\prova1\\dal\\migrations\\20240429134725_librarydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BCE0C7-3E41-438E-BFEA-5C359647CFA1}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20240429134725_librarydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BCE0C7-3E41-438E-BFEA-5C359647CFA1}|DAL\\DAL.csproj|c:\\users\\francesco\\source\\repos\\prova1\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73BCE0C7-3E41-438E-BFEA-5C359647CFA1}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0546030F-0C3B-4326-B1DD-FD3E2AFA8918}|BLL\\BLL.csproj|c:\\users\\francesco\\source\\repos\\prova1\\bll\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0546030F-0C3B-4326-B1DD-FD3E2AFA8918}|BLL\\BLL.csproj|solutionrelative:bll\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0546030F-0C3B-4326-B1DD-FD3E2AFA8918}|BLL\\BLL.csproj|c:\\users\\francesco\\source\\repos\\prova1\\bll\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0546030F-0C3B-4326-B1DD-FD3E2AFA8918}|BLL\\BLL.csproj|solutionrelative:bll\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0546030F-0C3B-4326-B1DD-FD3E2AFA8918}|BLL\\BLL.csproj|c:\\users\\francesco\\source\\repos\\prova1\\bll\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0546030F-0C3B-4326-B1DD-FD3E2AFA8918}|BLL\\BLL.csproj|solutionrelative:bll\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BCE0C7-3E41-438E-BFEA-5C359647CFA1}|DAL\\DAL.csproj|c:\\users\\francesco\\source\\repos\\prova1\\dal\\entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BCE0C7-3E41-438E-BFEA-5C359647CFA1}|DAL\\DAL.csproj|solutionrelative:dal\\entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BCE0C7-3E41-438E-BFEA-5C359647CFA1}|DAL\\DAL.csproj|c:\\users\\francesco\\source\\repos\\prova1\\dal\\repositories\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BCE0C7-3E41-438E-BFEA-5C359647CFA1}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BCE0C7-3E41-438E-BFEA-5C359647CFA1}|DAL\\DAL.csproj|c:\\users\\francesco\\source\\repos\\prova1\\dal\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BCE0C7-3E41-438E-BFEA-5C359647CFA1}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BCE0C7-3E41-438E-BFEA-5C359647CFA1}|DAL\\DAL.csproj|c:\\users\\francesco\\source\\repos\\prova1\\dal\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BCE0C7-3E41-438E-BFEA-5C359647CFA1}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BCE0C7-3E41-438E-BFEA-5C359647CFA1}|DAL\\DAL.csproj|c:\\users\\francesco\\source\\repos\\prova1\\dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BCE0C7-3E41-438E-BFEA-5C359647CFA1}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BCE0C7-3E41-438E-BFEA-5C359647CFA1}|DAL\\DAL.csproj|c:\\users\\francesco\\source\\repos\\prova1\\dal\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BCE0C7-3E41-438E-BFEA-5C359647CFA1}|DAL\\DAL.csproj|solutionrelative:dal\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A05E1EC-8860-4CBE-9D37-4AD4D5AE4863}|PL\\PL.csproj|c:\\users\\francesco\\source\\repos\\prova1\\pl\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A05E1EC-8860-4CBE-9D37-4AD4D5AE4863}|PL\\PL.csproj|solutionrelative:pl\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A05E1EC-8860-4CBE-9D37-4AD4D5AE4863}|PL\\PL.csproj|c:\\users\\francesco\\source\\repos\\prova1\\pl\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A05E1EC-8860-4CBE-9D37-4AD4D5AE4863}|PL\\PL.csproj|solutionrelative:pl\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A05E1EC-8860-4CBE-9D37-4AD4D5AE4863}|PL\\PL.csproj|c:\\users\\francesco\\source\\repos\\prova1\\pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A05E1EC-8860-4CBE-9D37-4AD4D5AE4863}|PL\\PL.csproj|solutionrelative:pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A05E1EC-8860-4CBE-9D37-4AD4D5AE4863}|PL\\PL.csproj|c:\\users\\francesco\\source\\repos\\prova1\\pl\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A05E1EC-8860-4CBE-9D37-4AD4D5AE4863}|PL\\PL.csproj|solutionrelative:pl\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A05E1EC-8860-4CBE-9D37-4AD4D5AE4863}|PL\\PL.csproj|c:\\users\\francesco\\source\\repos\\prova1\\pl\\pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A05E1EC-8860-4CBE-9D37-4AD4D5AE4863}|PL\\PL.csproj|solutionrelative:pl\\pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A05E1EC-8860-4CBE-9D37-4AD4D5AE4863}|PL\\PL.csproj|c:\\users\\francesco\\source\\repos\\prova1\\pl\\pl.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4A05E1EC-8860-4CBE-9D37-4AD4D5AE4863}|PL\\PL.csproj|solutionrelative:pl\\pl.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A05E1EC-8860-4CBE-9D37-4AD4D5AE4863}|PL\\PL.csproj|c:\\users\\francesco\\source\\repos\\prova1\\pl\\configuration\\automapperconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A05E1EC-8860-4CBE-9D37-4AD4D5AE4863}|PL\\PL.csproj|solutionrelative:pl\\configuration\\automapperconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A05E1EC-8860-4CBE-9D37-4AD4D5AE4863}|PL\\PL.csproj|c:\\users\\francesco\\source\\repos\\prova1\\pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A05E1EC-8860-4CBE-9D37-4AD4D5AE4863}|PL\\PL.csproj|solutionrelative:pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A05E1EC-8860-4CBE-9D37-4AD4D5AE4863}|PL\\PL.csproj|c:\\users\\francesco\\source\\repos\\prova1\\pl\\pl.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4A05E1EC-8860-4CBE-9D37-4AD4D5AE4863}|PL\\PL.csproj|solutionrelative:pl\\pl.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240429134725_LibraryDb.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\source\\repos\\Prova1\\DAL\\Migrations\\20240429134725_LibraryDb.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20240429134725_LibraryDb.cs",
+              "ToolTip": "C:\\Users\\Francesco\\source\\repos\\Prova1\\DAL\\Migrations\\20240429134725_LibraryDb.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20240429134725_LibraryDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:47:25.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\source\\repos\\Prova1\\DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Francesco\\source\\repos\\Prova1\\DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:53:15.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\source\\repos\\Prova1\\DAL\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\Francesco\\source\\repos\\Prova1\\DAL\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\BookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:57:04.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\source\\repos\\Prova1\\DAL\\Repositories\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\Francesco\\source\\repos\\Prova1\\DAL\\Repositories\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:56:03.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\source\\repos\\Prova1\\DAL\\Entity\\Book.cs",
+              "RelativeDocumentMoniker": "DAL\\Entity\\Book.cs",
+              "ToolTip": "C:\\Users\\Francesco\\source\\repos\\Prova1\\DAL\\Entity\\Book.cs",
+              "RelativeToolTip": "DAL\\Entity\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:12:43.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\source\\repos\\Prova1\\DAL\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Francesco\\source\\repos\\Prova1\\DAL\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:57:26.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\source\\repos\\Prova1\\DAL\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\LibraryDbContext.cs",
+              "ToolTip": "C:\\Users\\Francesco\\source\\repos\\Prova1\\DAL\\LibraryDbContext.cs",
+              "RelativeToolTip": "DAL\\LibraryDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:16:17.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\source\\repos\\Prova1\\BLL\\BookService.cs",
+              "RelativeDocumentMoniker": "BLL\\BookService.cs",
+              "ToolTip": "C:\\Users\\Francesco\\source\\repos\\Prova1\\BLL\\BookService.cs",
+              "RelativeToolTip": "BLL\\BookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:06:18.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\source\\repos\\Prova1\\BLL\\Services\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\Interfaces\\IBookService.cs",
+              "ToolTip": "C:\\Users\\Francesco\\source\\repos\\Prova1\\BLL\\Services\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "BLL\\Services\\Interfaces\\IBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:07:48.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\source\\repos\\Prova1\\BLL\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\BookModel.cs",
+              "ToolTip": "C:\\Users\\Francesco\\source\\repos\\Prova1\\BLL\\Models\\BookModel.cs",
+              "RelativeToolTip": "BLL\\Models\\BookModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:05:19.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\Francesco\\source\\repos\\Prova1\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\Francesco\\source\\repos\\Prova1\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-23T11:25:15.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\source\\repos\\Prova1\\PL\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "PL\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Francesco\\source\\repos\\Prova1\\PL\\Controllers\\BookController.cs",
+              "RelativeToolTip": "PL\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:24:59.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\source\\repos\\Prova1\\PL\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "PL\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Francesco\\source\\repos\\Prova1\\PL\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "PL\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:52:28.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\source\\repos\\Prova1\\PL\\Program.cs",
+              "RelativeDocumentMoniker": "PL\\Program.cs",
+              "ToolTip": "C:\\Users\\Francesco\\source\\repos\\Prova1\\PL\\Program.cs",
+              "RelativeToolTip": "PL\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:28:13.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AutoMapperConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Francesco\\source\\repos\\Prova1\\PL\\Configuration\\AutoMapperConfiguration.cs",
+              "RelativeDocumentMoniker": "PL\\Configuration\\AutoMapperConfiguration.cs",
+              "ToolTip": "C:\\Users\\Francesco\\source\\repos\\Prova1\\PL\\Configuration\\AutoMapperConfiguration.cs",
+              "RelativeToolTip": "PL\\Configuration\\AutoMapperConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:19:42.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Francesco\\source\\repos\\Prova1\\PL\\appsettings.json",
+              "RelativeDocumentMoniker": "PL\\appsettings.json",
+              "ToolTip": "C:\\Users\\Francesco\\source\\repos\\Prova1\\PL\\appsettings.json",
+              "RelativeToolTip": "PL\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-23T11:31:18.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Francesco\\source\\repos\\Prova1\\PL\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "PL\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Francesco\\source\\repos\\Prova1\\PL\\Pages\\Index.cshtml",
+              "RelativeToolTip": "PL\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T20:44:31.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PL.csproj",
+              "DocumentMoniker": "C:\\Users\\Francesco\\source\\repos\\Prova1\\PL\\PL.csproj",
+              "RelativeDocumentMoniker": "PL\\PL.csproj",
+              "ToolTip": "C:\\Users\\Francesco\\source\\repos\\Prova1\\PL\\PL.csproj",
+              "RelativeToolTip": "PL\\PL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-23T11:26:15.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PL.http",
+              "DocumentMoniker": "C:\\Users\\Francesco\\source\\repos\\Prova1\\PL\\PL.http",
+              "RelativeDocumentMoniker": "PL\\PL.http",
+              "ToolTip": "C:\\Users\\Francesco\\source\\repos\\Prova1\\PL\\PL.http",
+              "RelativeToolTip": "PL\\PL.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-28T19:44:22.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PL",
+              "DocumentMoniker": "C:\\Users\\Francesco\\source\\repos\\Prova1\\PL\\PL.csproj",
+              "RelativeDocumentMoniker": "PL\\PL.csproj",
+              "ToolTip": "C:\\Users\\Francesco\\source\\repos\\Prova1\\PL\\PL.csproj",
+              "RelativeToolTip": "PL\\PL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-23T13:16:55.019Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
